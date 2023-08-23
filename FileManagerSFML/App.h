@@ -12,6 +12,7 @@ private:
 	UI buttons;
 	NavWindow navLeft;
 	NavWindow navRight;
+	int flag;
 
 public:
 	App();

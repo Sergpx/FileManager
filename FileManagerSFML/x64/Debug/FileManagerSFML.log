@@ -1,5 +1,15 @@
 ﻿  App.cpp
-  Button.cpp
+C:\Users\Admin\Documents\Serg\FileManager\FileManagerSFML\App.cpp(39,69): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Admin\Documents\Serg\FileManager\FileManagerSFML\App.cpp(39,48): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
   FileManagerSFML.cpp
+  NavWindow.cpp
   Создание кода...
   FileManagerSFML.vcxproj -> C:\Users\Admin\Documents\Serg\FileManager\FileManagerSFML\x64\Debug\FileManagerSFML.exe
