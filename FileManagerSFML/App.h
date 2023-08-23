@@ -2,6 +2,7 @@
 #include <SFML/Graphics.hpp>
 #include "UI.h"
 #include "NavWindow.h"
+#include "Config.h"
 
 
 class App

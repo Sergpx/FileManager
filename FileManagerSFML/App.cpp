@@ -1,7 +1,7 @@
 #include "App.h"
 
 App::App():
-	window(sf::VideoMode(800, 600), "SFML window")
+	window(sf::VideoMode(WINDOW_W, WINDOW_H), "SFML window")
 {
 	
 }
@@ -38,4 +38,18 @@ void App::processEvent()
 void App::update()
 {
 
+	
+
+}
+
+void App::moveElement()
+{
+}
+
+void App::copyElement()
+{
+}
+
+void App::removeElement()
+{
 }
